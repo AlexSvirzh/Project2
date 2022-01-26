@@ -1,0 +1,39 @@
+.upper{
+	text-align: center;
+	font-size: 40px;
+ 	margin: 0;
+ 	padding: 0;
+    position: relative;
+    background: transparent;
+    overflow: hidden;
+    color: khaki;
+    
+}
+.active{
+	list-style: none;
+	margin: 15px;
+	padding: 10px;
+	text-align: center;
+	background: transparent;
+
+}
+.active a{
+	display: inline-block;
+	text-decoration: none;
+	font-family: sans-serif;
+	color: #5757a0;
+	background-color: lavender;
+	padding: 10px 20px;
+	font-size: 17px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+.active a:hover{
+	color: fuchsia;
+}
+.active li{
+	display: inline;
+}
+header{
+	background-color: darkorchid;
+}
