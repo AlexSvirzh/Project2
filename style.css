@@ -7,7 +7,7 @@
     background: transparent;
     overflow: hidden;
     color: khaki;
-    
+
 }
 .active{
 	list-style: none;
@@ -36,4 +36,98 @@
 }
 header{
 	background-color: darkorchid;
+}
+.first_div{
+
+}
+.first-img{
+	width: 70%;
+	height: 60%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+
+}
+.content{
+	
+
+}
+.descript p{
+	font-size: 25px;
+	color: ghostwhite;
+	padding-left: 30px;
+	text-align: center;
+	padding-top: 40px;
+
+}
+body{
+	background-color: hsl(0, 0%, 23%);
+}
+.products{
+	display: flex;
+	justify-content: space-around;
+	padding-top: 30px;
+}
+.first-prod{
+width: 300px;
+height: 300px;
+padding-left: 10px;
+}
+.sec-prod{
+width: 300px;
+height: 300px;
+}
+.third-prod{
+width: 300px;
+height: 300px;
+}
+.fourth-prod{
+width: 300px;
+height: 300px;
+padding-right: 10px;
+}
+.products figcaption{
+	text-align: left;
+	font-size: 20px;
+	color: ghostwhite;
+	font-weight: bolder;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+.headline h3{
+	text-align: center;
+	font-size: 40px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-weight: bolder;
+	color: whitesmoke;
+}
+.headline p{
+	text-align: center;
+	font-size: 20px;
+	color: white;
+}
+footer{
+	padding-top: 50px;
+}
+.foot h1{
+	font-weight: bold;
+	text-align: left ;
+	padding-left: 40px;
+	color: khaki;
+	font-size: 30px;
+	font-family: sans-serif;
+}
+.foot_list{
+	list-style: none;
+	font-size: 20px;
+
+}
+.foot_list a{
+	color: gold;
+	text-decoration: none;
+}
+.foot_list a:hover{
+	color: red;
 }
