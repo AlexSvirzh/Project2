@@ -36,6 +36,7 @@
 }
 header{
 	background-color: darkorchid;
+	min-width: 767px;
 }
 .first_div{
 
